@@ -2,6 +2,8 @@
 
 ### **1. O Programador Apaixonado – Chad Fowler**
 
+![OProgramadorApaixonado](https://m.media-amazon.com/images/I/81dBiDT7qTL._SY466_.jpg)
+
 * *Sinopse*
 
 Para ter sucesso no mercado de TI atual, é preciso ver sua carreira como se fosse um negócio. Nesse livro você vai aprender a empreender com a sua carreira e levá-la para o caminho que você escolheu. O do sucesso.
@@ -10,6 +12,8 @@ Chad Fowler, famoso desenvolvedor de software e autor de diversos livros, ensina
 
 ---
 ### **2. Expressões Regulares: Uma abordagem divertida – Aurélio Marinho**
+
+![ExpressõesRegulares](https://m.media-amazon.com/images/I/61qxP-mwRgL._SY466_.jpg)
 
 * *Sinopse*
 
@@ -25,6 +29,8 @@ Estes são exemplos de uso das Expressões Regulares, que servem para encontrar 
 
 ---
 ### **3. Não me faça pensar — Steve Krug**
+
+![Nãomefaçapensar](https://m.media-amazon.com/images/I/51i8-f+QMFL._SY466_.jpg)
 
 * *Sinopse*
 
@@ -43,6 +49,8 @@ Com explicações simplificadas, Não Me Faça Pensar - Atualizado ensina a apli
 ---
 ### **4. Domain Driven Design: Atacando as complexidades no coração do software – Eric Evans**
 
+![DomainDrivenDesign](https://m.media-amazon.com/images/I/61aIS4n2jZL._SY466_.jpg)
+
 * *Sinopse*
 
 A comunidade de desenvolvimento de softwares reconhece que a modelagem de domínios é fundamental para o design de softwares. Através de modelos de domínios, os desenvolvedores de software conseguem expressar valiosas funcionalidades e traduzi-las em uma implementação de software que realmente atenda às necessidades de seus usuários. Mas, apesar de sua óbvia importância, existem poucos recursos práticos que explicam como incorporar uma modelagem de domínios eficiente no processo de desenvolvimento de softwares.
@@ -53,6 +61,8 @@ Com este livro em mãos, desenvolvedores orientados a objetos, analistas de sist
 
 ---
 ### **5. Entendendo algoritmos: um guia ilustrado para programadores e outros curiosos — Aditya Y. Bhargava**
+
+![Entendendoalgoritimos](https://m.media-amazon.com/images/I/71Vkg7GfPFL._SY466_.jpg)
 
 * *Sinopse*
 
